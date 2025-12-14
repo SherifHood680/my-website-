@@ -1,6 +1,6 @@
 # Mthobisi Zungu - Portfolio Website
 
-Live Demo: https://SherifHood680.github.io/my-website
+Live Demo: https://SherifHood680.github.io/my-website-.git
 
 A responsive portfolio website showcasing my web development projects. Built with HTML, CSS, and JavaScript.
 
@@ -18,7 +18,7 @@ A responsive portfolio website showcasing my web development projects. Built wit
 
 ## How to View
 1. Visit the live link above
-2. Or clone locally: `git clone https://github.com/[username]/[repo-name].git`
+2. Or clone locally: `git clone https://github.com/SherifHood680/my-website-.git`
 3. Open `index.html` in browser
 
 ## License
